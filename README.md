@@ -15,6 +15,6 @@ This project contains two simple implementations in pure C:
 
 ### 1. Compile and Run HTTP Server
 ```bash
-cd Basic-HTTP-Server
+cd HTTPclient
 gcc http_server.c -o http_server
 ./http_server
